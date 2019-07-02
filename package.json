@@ -1,8 +1,8 @@
 {
-  "name": "gbbc18",
+  "name": "node-screengrabber",
   "version": "1.0.0",
-  "description": "",
-  "main": "gbbc-cron.js",
+  "description": "olipassey.me.uk for more information",
+  "main": "screengrabber.js",
   "dependencies": {
     "cron": "^1.3.0",
     "jimp": "^0.2.28",
